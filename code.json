@@ -1,0 +1,34 @@
+{
+  "projectName": "MediCare",
+  "projectDescription": "Some Desc",
+  "projectURL": "https://github.com/shahdhairya51/MediCare",
+  "healthFocusAreas": [
+    "Mental Health",
+    "Healthcare Access",
+    "Disease Prevention",
+    "Emergency Response",
+    "Medical Research",
+    "Infectious Disease Control"
+  ],
+  "sdg3Targets": [
+    "3.3 End epidemics (AIDS, TB, malaria, etc.)",
+    "3.4 Reduce non-communicable diseases",
+    "3.5 Strengthen mental health services"
+  ],
+  "technologiesUsed": [
+    "Web Application",
+    "Mobile Application",
+    "AI/ML Model",
+    "Database System",
+    "Data Visualization"
+  ],
+  "targetAudience": [
+    "Healthcare Providers",
+    "General Public",
+    "Researchers",
+    "Government Agencies",
+    "Non-profits & NGOs"
+  ],
+  "isDeployed": true,
+  "deploymentLocation": "Hospital"
+}
